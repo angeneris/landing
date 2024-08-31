@@ -1,3 +1,29 @@
+# Angeneris Cifuentes' Portfolio
+
+Welcome to my portfolio! This site showcases my work as a [your profession/field] with a focus on [your key skills or specializations]. Here you'll find projects that highlight my skills in [list of skills, e.g., data science, machine learning, web development].
+
+## About the Design
+
+This portfolio uses the "Aerial" template by HTML5 UP, which I chose for its clean and responsive design. The template has been customized to better reflect my personal style and the content I want to showcase.
+
+### Customizations to template 
+- Added infinite scroll with HTML and CSS 
+- Updated icons using font awesome library 
+- Added new background image, you can find it linked below in 'credits'
+- Removed overlay 
+
+## Credits
+
+- **Template**: Aerial by HTML5 UP (html5up.net)
+- **Background Image**: "Cherry blossom trees in full bloom, pixel art, soft pinks and greens, 8bit, delicate and beautiful" by ธนากร บัวพรหม via Adobe Stock
+- **Icons**: Font Awesome (fontawesome.io)
+
+Feel free to explore the projects and let me know if you have any questions!
+
+
+**ORIGINAL CREDITS** 
+More information on the template is below: 
+
 Aerial by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
